@@ -36,6 +36,18 @@ export default function FreeToolsLayout({ children }: { children: React.ReactNod
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(catalogJsonLd) }} />
       {children}
+      <footer className="border-t border-outline-variant/40 px-4 py-6 text-center">
+        <p className="text-xs text-on-surface-variant leading-relaxed">
+          This tool is based on{" "}
+          <a href="https://github.com/alam00000/bentopdf" target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 hover:text-on-surface">BentoPDF</a>
+          {", "}
+          <a href="https://github.com/pymupdf/PyMuPDF" target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 hover:text-on-surface">PyMuPDF</a>
+          {", and "}
+          <a href="https://github.com/PDFCraftTool/pdfcraft" target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 hover:text-on-surface">pdfcraft</a>
+          . Modified by GlimDocs. Licensed under GNU AGPL v3.{" "}
+          <a href="https://github.com/oathorg/glimdocs-pdf-tools" target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 hover:text-on-surface">Source Code</a>
+        </p>
+      </footer>
     </>
   );
 }
