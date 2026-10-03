@@ -1,0 +1,26 @@
+GlimDocs PDF Tools — free client-side PDF engines.
+Copyright © 2026 GlimDocs.
+
+This project is a modified version of the following open-source projects.
+See README.md for the full attribution statement and THIRD-PARTY-NOTICES
+for the complete list of third-party components and their licenses.
+
+1. BentoPDF — The Privacy First PDF Toolkit
+   Copyright © alam00000 and the BentoPDF contributors
+   https://github.com/alam00000/bentopdf
+   Licensed under the GNU Affero General Public License v3.0 (AGPL-3.0)
+
+2. PyMuPDF — high performance Python library for PDF data extraction,
+   analysis, conversion & manipulation
+   Copyright © Artifex Software, Inc. and the PyMuPDF contributors
+   https://github.com/pymupdf/PyMuPDF
+   Licensed under the GNU Affero General Public License v3.0 (AGPL-3.0)
+
+3. pdfcraft — free, privacy-focused, browser-based PDF toolkit
+   Copyright © PDFCraftTool and the pdfcraft contributors
+   https://github.com/PDFCraftTool/pdfcraft
+   Licensed under the GNU Affero General Public License v3.0 (AGPL-3.0)
+
+Modifications copyright © 2026 GlimDocs. This modified version is
+licensed under the GNU Affero General Public License version 3
+(AGPL-3.0-only). See LICENSE for the complete license text.

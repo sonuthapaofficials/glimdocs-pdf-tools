@@ -1,0 +1,66 @@
+THIRD-PARTY NOTICES — GlimDocs PDF Tools
+=============================================
+This file lists third-party software components included in or required by
+this project, with their licenses and sources. Unless stated otherwise,
+version numbers refer to the range declared in package.json.
+
+Upstream projects this modified version is derived from (all AGPL-3.0;
+see README.md and NOTICE for the full attribution statement):
+
+1. BentoPDF — The Privacy First PDF Toolkit
+   Copyright © alam00000 and contributors — https://github.com/alam00000/bentopdf
+   License: GNU Affero General Public License v3.0 (AGPL-3.0)
+
+2. PyMuPDF — PDF data extraction, analysis, conversion & manipulation
+   Copyright © Artifex Software, Inc. and contributors — https://github.com/pymupdf/PyMuPDF
+   License: GNU Affero General Public License v3.0 (AGPL-3.0)
+
+3. pdfcraft — browser-based PDF toolkit
+   Copyright © PDFCraftTool and contributors — https://github.com/PDFCraftTool/pdfcraft
+   License: GNU Affero General Public License v3.0 (AGPL-3.0)
+
+Runtime / build dependencies (fetched from npm at install time):
+
+4. pdf-lib — PDF creation and modification
+   Copyright © Hopding — https://github.com/Hopding/pdf-lib
+   License: MIT
+
+5. pdfjs-dist (pdf.js) — PDF rendering and text extraction
+   Copyright © Mozilla and contributors — https://github.com/mozilla/pdf.js
+   License: Apache License 2.0
+
+6. @neslinesli93/qpdf-wasm — WebAssembly build of QPDF (AES encryption,
+   decryption, structural repair)
+   https://github.com/neslinesli93/qpdf-wasm
+   Package license: ISC. The bundled QPDF engine is licensed under the
+   Apache License 2.0 — https://github.com/qpdf/qpdf
+
+7. Next.js — React framework
+   Copyright © Vercel, Inc. — https://github.com/vercel/next.js
+   License: MIT
+
+8. React / React DOM — UI library
+   Copyright © Meta Platforms, Inc. and affiliates — https://github.com/facebook/react
+   License: MIT
+
+9. react-icons — icon components
+   https://github.com/react-icons/react-icons
+   License: MIT
+
+10. Tailwind CSS (+ @tailwindcss/postcss) — utility-first CSS framework
+    Copyright © Tailwind Labs, Inc. — https://github.com/tailwindlabs/tailwindcss
+    License: MIT
+
+11. TypeScript (build-time only)
+    Copyright © Microsoft Corporation — https://github.com/microsoft/TypeScript
+    License: Apache License 2.0
+
+Bundled assets:
+
+12. Material Symbols Outlined (subset woff2 in public/fonts) — icon font
+    Copyright © Google — https://github.com/google/material-design-icons
+    License: Apache License 2.0
+
+Full license texts: AGPL-3.0 in LICENSE; MIT/ISC texts at
+https://opensource.org/licenses/MIT and https://opensource.org/licenses/ISC;
+Apache-2.0 at https://www.apache.org/licenses/LICENSE-2.0.
