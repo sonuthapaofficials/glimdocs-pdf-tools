@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-/* Self-hosted Material Symbols (subset: 76 icons used in src, 54KB).
+/* Self-hosted Material Symbols (subset: 80 icons used in src + agpl/src, 58KB).
    No Google Fonts CDN: keeps COEP isolation intact and zero third-party
    requests. Filename carries a content hash because /fonts/ is served
    immutable — never revert to an unhashed name or browsers pin stale
@@ -12,7 +12,7 @@
   font-style: normal;
   font-weight: 100 700;
   font-display: swap;
-  src: url("/fonts/material-symbols-outlined.f303cd01.subset.woff2") format("woff2");
+  src: url("/fonts/material-symbols-outlined.c616c949.subset.woff2") format("woff2");
 }
 
 .material-symbols-outlined {
