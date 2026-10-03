@@ -6,7 +6,7 @@
   "description": "GlimDocs free PDF tools — 50+ client-side PDF engines (merge, split, compress, convert, sign, repair). Modified version of BentoPDF, PyMuPDF and pdfcraft. Licensed under AGPL-3.0-only.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oathorg/glimdocs-pdf-tools.git"
+    "url": "https://github.com/sonuthapaofficials/glimdocs-pdf-tools.git"
   },
   "scripts": {
     "dev": "next dev",

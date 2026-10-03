@@ -43,7 +43,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               </span>
             </Link>
             <a
-              href="https://github.com/oathorg/glimdocs-pdf-tools"
+              href="https://github.com/sonuthapaofficials/glimdocs-pdf-tools"
               target="_blank"
               rel="noreferrer"
               className="px-4 py-2 text-sm font-semibold rounded-lg bg-primary/90 text-on-primary hover:bg-primary transition-all"

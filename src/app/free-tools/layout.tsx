@@ -45,7 +45,7 @@ export default function FreeToolsLayout({ children }: { children: React.ReactNod
           {", and "}
           <a href="https://github.com/PDFCraftTool/pdfcraft" target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 hover:text-on-surface">pdfcraft</a>
           . Modified by GlimDocs. Licensed under GNU AGPL v3.{" "}
-          <a href="https://github.com/oathorg/glimdocs-pdf-tools" target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 hover:text-on-surface">Source Code</a>
+          <a href="https://github.com/sonuthapaofficials/glimdocs-pdf-tools" target="_blank" rel="noopener noreferrer" className="underline underline-offset-2 hover:text-on-surface">Source Code</a>
         </p>
       </footer>
     </>
